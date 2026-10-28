@@ -81,6 +81,10 @@ python3 page/build_page.py --standalone --out index.html
 - 李录「目标与代价」的论述来自其 2026 年 10 月哥伦比亚商学院格雷厄姆与多德论坛演讲整理稿（虎嗅转载）。
 - 本项目仅作研究展示，不构成投资建议。
 
+## 许可
+
+代码、编码规则与分析文档以 [MIT 许可](LICENSE) 发布。`data/` 中的行情数据与 `coding_work/texts/` 中的政策原文摘录不在此许可范围内，其权利归各自来源。
+
 ---
 
 ## English summary
@@ -102,3 +106,5 @@ Supportive wording did not pick winners (and lagged in the first year — an exp
 **Method.** Pre-registered protocols and analysis plan with SHA-256 timestamps; verbatim extraction of industry wording from official texts by agents with no market data; blind coding into 2,234 events from 64 documents; mechanical merge and freeze; an independent backtest agent that could only read the frozen events, the price data and the plan; doc-clustered bootstrap and two placebo tests (random industries, shifted dates). See `prereg/`, `events/`, `backtest/report.md`.
 
 **Data.** SW industry indices published by SWS Research (rights remain with SWS Research; included for research reproducibility only). Policy texts from gov.cn, NDRC, Xinhua and other official sources. Not investment advice.
+
+**License.** Code, coding rules and analysis documents are released under the [MIT License](LICENSE). The market data in `data/` and the policy-text extracts in `coding_work/texts/` are not covered; their rights stay with their sources.
