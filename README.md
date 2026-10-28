@@ -2,7 +2,7 @@
 
 二十五年来，六部五年规划和数十份产业政策文件怎样描述各个行业？这些措辞之后，申万行业指数又怎样走？跟着政策买，胜率究竟多少？
 
-**交互页面：** https://shanshanshan66688-art.github.io/policy-candles/ （中英双语，可回放的行业月K线、五年计划逐期追踪、盲测回测结果）
+**交互页面：** https://shanshanshan66688-art.github.io/Policy-candles/ （中英双语，可回放的行业月K线、五年计划逐期追踪、盲测回测结果）
 
 English summary below.
 
