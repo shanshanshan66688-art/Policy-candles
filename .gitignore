@@ -1,0 +1,6 @@
+page/shots/
+page/page.html
+page/page_mock.html
+__pycache__/
+*.pyc
+.DS_Store

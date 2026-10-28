@@ -1,0 +1,17 @@
+4168d34147c338aa6898cc59bf70765b5f517d5ed7ca31f5a5e7cf99fd48fe88  prereg/analysis_plan_v1.md
+47f34984564f5f9624b872690b0a2003a44eae462226ee100dc932d38482eeb4  prereg/coding_protocol_v1.md
+c40d3c640ca4c69d98b165a8cf447dc36df0cc24e5f77fa73ebcfb047268aba5  prereg/sw_taxonomy.csv
+frozen_at_utc 2026-10-26T13:23:44Z
+5569e6b5a3abab8ee5451d8a4aa3375ac4e3d2754c597cd62a38135fe6a9560e  prereg/analysis_plan_v1_clarifications.md
+d8023b14c983cc48a6487971970ebca507575d6c335c812dd1c7313311d6a30d  prereg/backtest_output_spec.md
+addendum_frozen_at_utc 2026-10-26T14:13:53Z (events not yet frozen; no event joined to prices)
+a17500756d3ffc5b95a5cb2d2afdc0b0e437c7e6010e4300aa03c6f0c242c05d  prereg/extraction_protocol_v1.md
+addendum2_frozen_at_utc 2026-10-26T22:00:33Z (stage-1 extraction protocol; first coding agent interrupted with no output; no event coded)
+9c4cb90335b69642d5d70b894d2406bf1d74738cd186109a07333cebd9e1ac09  prereg/analysis_plan_v1_clarifications_2.md
+00dff85b6b1351455a8f65c20755de1e1f3d5f93536097e7a457d08afadee99e  data/sw_monthly.csv
+07a693821b732d08930d13e092ef154fcb618d9527cae1763ebebb489c2569d5  data/sw_daily.csv
+7735f5a43293bfdaf899b2c2c66a3b4f75e393071a0c6ab1c9709b40174a5553  data/sw_lineage.csv
+addendum3_frozen_at_utc 2026-10-26T22:03:03Z (data-gap rule + data files; no event coded)
+a0539e1155561064a78de0f69a6deb2346300d33519b83f50447f1367dd46eb7  prereg/coding_stage2_v1.md
+3487c29c7c0446081becc72de37c4fe2ba659f923a80f6b12653e0c943c8426a  scripts/merge_events.py
+addendum4_frozen_at_utc 2026-10-26T22:14:32Z (stage-2 coding instructions + merge script; no event coded)
